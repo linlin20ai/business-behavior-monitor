@@ -31,3 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
+business-behavior-monitor-test/data/log/*.log
