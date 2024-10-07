@@ -1,0 +1,8 @@
+24-10-07.11:03:29.981 [main            ] INFO  Version                - Redisson 3.26.0
+24-10-07.11:03:29.361 [main            ] INFO  ApiTest                - Starting ApiTest using Java 1.8.0_321 on DESKTOP-HC4RK9C with PID 4176 (started by 林圣涛 in C:\Users\林圣涛\Desktop\business-behavior-monitor\business-behavior-monitor-test)
+24-10-07.11:03:30.439 [redisson-netty-1-24] INFO  ConnectionsHolder      - 1 connections initialized for localhost/127.0.0.1:6379
+24-10-07.11:03:30.433 [redisson-netty-1-23] INFO  ConnectionsHolder      - 10 connections initialized for localhost/127.0.0.1:6379
+24-10-07.11:03:30.507 [main            ] INFO  ApiTest                - The following 1 profile is active: "dev"
+24-10-07.11:03:30.751 [main            ] INFO  ApiTest                - Started ApiTest in 1.993 seconds (JVM running for 2.969)
+24-10-07.11:03:31.141 [main            ] INFO  ApiTest                - 测试日志 10001 李二狗 {"orderId":"109099893222","userAge":25,"userId":"10001","userName":"李二狗"}
+24-10-07.11:03:31.220 [redisson-3-12   ] INFO  RedisPush              - 接收消息： {"className":"cn.xiaohamigua.test.ApiTest","logList":["测试日志","10001","李二狗","{\"orderId\":\"109099893222\",\"userAge\":25,\"userId\":\"10001\",\"userName\":\"李二狗\"}"],"methodName":"test_log_01","systemName":"big-market"}

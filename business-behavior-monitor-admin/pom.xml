@@ -110,7 +110,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>cn.xiaohamigua.monitor.Application</mainClass>
+                    <mainClass>cn.xiaohamigua.Application</mainClass>
                     <layout>JAR</layout>
                 </configuration>
             </plugin>

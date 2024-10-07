@@ -48,6 +48,12 @@
             <groupId>commons-codec</groupId>
             <artifactId>commons-codec</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>cn.xiaohamigua</groupId>
+            <artifactId>business-behavior-monitor-sdk</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
     <build>
